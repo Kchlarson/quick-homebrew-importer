@@ -1,24 +1,23 @@
 {
-  "name": "quick-homebrew-importer",
+  "name": "Quick Homebrew Importer",
   "title": "Quick Homebrew Importer",
-  "description": "Paste or upload JSON to import homebrew Items, Classes, Subclasses, and Feats.",
+  "id": "quick-homebrew-importer",
   "version": "1.0.0",
+  "description": "A module to quickly import homebrew items, classes, subclasses, and feats.",
   "author": "kchlarson",
-  "minimumCoreVersion": "11",
-  "compatibleCoreVersion": "11",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
   "scripts": [
     "quick-homebrew-importer.js"
   ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
   "packs": [],
-  "url": "https://github.com/your-user/quick-homebrew-importer",
-  "manifest": "https://raw.githubusercontent.com/your-user/quick-homebrew-importer/main/module.json",
-  "download": "https://github.com/your-user/quick-homebrew-importer/archive/refs/heads/main.zip",
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/kchlarson/quick-homebrew-importer/main/module.json",
+  "download": "https://github.com/kchlarson/quick-homebrew-importer/releases/latest/download/module.zip",
+  "url": "https://github.com/kchlarson/quick-homebrew-importer",
+  "readme": "README.md",
   "license": "MIT"
 }
