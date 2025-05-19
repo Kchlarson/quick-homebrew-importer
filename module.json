@@ -5,19 +5,25 @@
   "version": "1.0.0",
   "description": "A module to quickly import homebrew items, classes, subclasses, and feats.",
   "author": "kchlarson",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
   "scripts": [
     "quick-homebrew-importer.js"
   ],
   "esmodules": [],
   "styles": [],
-  "languages": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "packs": [],
   "socket": false,
+  "url": "https://github.com/kchlarson/quick-homebrew-importer",
   "manifest": "https://raw.githubusercontent.com/kchlarson/quick-homebrew-importer/main/module.json",
   "download": "https://github.com/kchlarson/quick-homebrew-importer/archive/refs/heads/main.zip",
-  "url": "https://github.com/kchlarson/quick-homebrew-importer",
   "readme": "README.md",
   "license": "MIT"
 }
