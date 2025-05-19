@@ -17,8 +17,8 @@
     }
   ],
   "packs": [],
-  "url": "https://github.com/your-user/quick-homebrew-importer",
-  "manifest": "https://raw.githubusercontent.com/your-user/quick-homebrew-importer/main/module.json",
-  "download": "https://github.com/your-user/quick-homebrew-importer/archive/refs/heads/main.zip",
+  "url": "https://github.com/Kchlarson/quick-homebrew-importer",
+  "manifest": "https://raw.githubusercontent.com/Kchlarson/quick-homebrew-importer/main/module.json",
+  "download": "https://github.com/Kchlarson/quick-homebrew-importer/archive/refs/heads/main.zip",
   "license": "MIT"
 }
