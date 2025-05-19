@@ -1,0 +1,15 @@
+<form class="flexcol" autocomplete="off">
+  <header>
+    <h1>Homebrew Importer</h1>
+    <p>Paste JSON describing Items, Classes, Subclasses, and Feats, then click <strong>Import</strong>.</p>
+  </header>
+
+  <div class="form-group" style="flex: 1;">
+    <textarea name="jsonData" style="height:100%;"></textarea>
+  </div>
+
+  <footer class="flexrow">
+    <button type="submit" class="import btn">Import</button>
+    <button type="button" class="cancel btn" onclick="this.closest('form').closest('.window-app').close()">Cancel</button>
+  </footer>
+</form>
