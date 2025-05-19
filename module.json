@@ -16,7 +16,7 @@
   "packs": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/kchlarson/quick-homebrew-importer/main/module.json",
-  "download": "https://github.com/kchlarson/quick-homebrew-importer/releases/latest/download/module.zip",
+  "download": "https://github.com/kchlarson/quick-homebrew-importer/archive/refs/heads/main.zip",
   "url": "https://github.com/kchlarson/quick-homebrew-importer",
   "readme": "README.md",
   "license": "MIT"
