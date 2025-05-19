@@ -3,7 +3,7 @@
   "title": "Quick Homebrew Importer",
   "description": "Paste or upload JSON to import homebrew Items, Classes, Subclasses, and Feats.",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "kchlarson",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
   "scripts": [
