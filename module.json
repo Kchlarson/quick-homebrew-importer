@@ -2,7 +2,7 @@
   "name": "Quick Homebrew Importer",
   "title": "Quick Homebrew Importer",
   "id": "quick-homebrew-importer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to quickly import homebrew items, classes, subclasses, and feats.",
   "author": "kchlarson",
   "minimumCoreVersion": "11",
